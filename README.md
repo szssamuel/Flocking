@@ -1,2 +1,2 @@
 # Flocking
-A small fun-project in Processing, simulating flocking behaviour.
+A small fun-project made with Processing 3, simulating flocking behaviour.
